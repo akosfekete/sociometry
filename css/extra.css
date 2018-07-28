@@ -1,3 +1,9 @@
 img.custom-img {
 	margin: 5px;
 }
+video {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid lightgray;
+	border-radius: 3px;
+}
