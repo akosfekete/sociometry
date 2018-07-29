@@ -58,9 +58,19 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                        <i class="fa fa-search"></i> Keresés
+                        <i class="fa fa-search"></i> Search
                     </a>
                 </li>
+                    <li >
+                        <a rel="next" href="..">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li class="disabled">
+                        <a rel="prev" >
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
             </ul>
         </div>
     </div>
@@ -130,7 +140,7 @@ menüpontjával.</p>
 <p><img class="custom-img" width="35 px" src="img/open.png"/> <strong>Megnyitás</strong>: Korábban elmentett <em>csv</em> formátumú kérdések megnyitása szerkesztésre. Ilyenkor a kérdések még nem adódnak hozzá a jelenlegi fájlhoz.</p>
 </li>
 <li>
-<p><img class="custom-img" width="35 px" src="img/load.png"/> <strong>Betöltés:</strong> Az előzőleg már megnyitott, a fájl által tartalmazott kérdések betöltése. A gomb csak akkor aktív, ha előzőleg már lettek <a href="..#korabban-elmentett-kerdesek-betoltese">megnyitva kérdések.</a></p>
+<p><img class="custom-img" width="35 px" src="img/load.png"/> <strong>Betöltés:</strong> Az előzőleg már megnyitott, a fájl által tartalmazott kérdések betöltése. A gomb csak akkor aktív, ha előzőleg már lettek <a href="./#korabban-elmentett-kerdesek-betoltese">megnyitva kérdések.</a></p>
 </li>
 <li>
 <p><img class="custom-img" width="35 px" src="img/add.png"/> <strong>Hozzáadás:</strong>  A jelenleg szerkesztés alatt álló kérdések hozzáadása a megnyitott fájlhoz. Ha a fájl már tartalmaz kérdéseket, azok felülírásra kerülnek a válaszokkal együtt (mivel azok más kérdésekre vonatkoztak). </p>
@@ -158,7 +168,7 @@ menüpontjával.</p>
 <h3 id="a-tablazat-adatainak-ertelmezese">A táblázat adatainak értelmezése</h3>
 <ul>
 <li>
-<p><strong>ID</strong>: a felhasználó azonosítója, ami a <a href="..#a-tablazatok-ful"><strong>Táblázatok</strong></a>, illetve a <a href="..#a-szociograf-ful"><strong>Szociográf</strong></a> füleken is látható. </p>
+<p><strong>ID</strong>: a felhasználó azonosítója, ami a <a href="./#a-tablazatok-ful"><strong>Táblázatok</strong></a>, illetve a <a href="./#a-szociograf-ful"><strong>Szociográf</strong></a> füleken is látható. </p>
 </li>
 <li>
 <p><strong>Rokonszenv</strong>, <strong>Funkció</strong>, <strong>Népszerűség</strong> és <strong>Tulajdonság</strong> oszlopok: Egy arányszám, ami megmutatja, hogy az adott személyt hányan választották az adott típusú kérdésre válaszként. Értéke 1, ha a személyt a csoport összes többi tagja megválasztolta az adott típusú kérdésre.</p>
@@ -212,7 +222,7 @@ Központnak az olyan zárt alakzatban lévőket tekintjük, akik kapcsolati kör
 <li><img class="custom-img" width="100 px" src="img/egyszeres.png"/> <strong>Egyirányű kapcsolat:</strong> csak a nyíl által mutatott irányban létezik rokonszenvi kapcsolat a személyek között.</li>
 <li><img class="custom-img" width="100 px" src="img/ketiranyu.png"/> <strong>Kétirányú kapcsolat:</strong> mindkét irányban létezik kapcsolat.  </li>
 </ul>
-<p>Az átláthatóság érdekében a kétirányú kapcsolatok nyilak helyett vastagabb vonallal vannak jelölve, valamint a többszörös kapcsolatok nincsenek ábrázolva. A többszörös kapcsolatok száma leolvasható a a <a href="..#a-tablazatok-ful"><strong>Táblázatok</strong></a> fülön lévő gyakorisági táblázatból. </p>
+<p>Az átláthatóság érdekében a kétirányú kapcsolatok nyilak helyett vastagabb vonallal vannak jelölve, valamint a többszörös kapcsolatok nincsenek ábrázolva. A többszörös kapcsolatok száma leolvasható a a <a href="./#a-tablazatok-ful"><strong>Táblázatok</strong></a> fülön lévő gyakorisági táblázatból. </p>
 <p>További információ az adatok értelmezéséhez: <a href="https://www.tankonyvtar.hu/hu/tartalom/tamop425/2011_0001_520_pszichologia_pedagogusoknak/2011_0001_520_pszichologia_pedagogusoknak.pdf">Pszichológia pedagógusoknak
 N. Kollár Katalin, Szabó Éva (2004), tankonyvtar.hu</a></p>
 <h1 id="az-adatok-exportalasa">Az adatok exportálása</h1>
