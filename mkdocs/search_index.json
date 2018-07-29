@@ -2,12 +2,17 @@
     "docs": [
         {
             "location": "/",
-            "text": "Let\u00f6lt\u00e9s\n\n\nLet\u00f6lt\u00e9s\n\n\nMegjegyz\u00e9s\n\n\n\n\n\n\nA szoftver ingyenes mivolt\u00e1b\u00f3l kifoly\u00f3lag helyes m\u0171k\u00f6d\u00e9s\u00e9\u00e9rt felel\u0151ss\u00e9get nem v\u00e1llalok.\n\n\n\n\nK\u00f6vetelm\u00e9nyek\n\n\nA szoftver futtat\u00e1s\u00e1hoz a Java futtat\u00e1si k\u00f6rnyezet (JRE) leagl\u00e1bb 8-as verzi\u00f3ja sz\u00fcks\u00e9ges. Let\u00f6lt\u00e9s: \nhttps://java.com/en/download/",
+            "text": "Ingyenes szociometriai szoftver\n\n\n  \n\n\n\n\nA szoftver seg\u00edts\u00e9get ny\u00fajt a M\u00e9rei-f\u00e9le t\u00f6bbszempont\u00fa szociometriai felm\u00e9r\u00e9s elv\u00e9gz\u00e9s\u00e9hez.  \n\n\nLehet\u0151s\u00e9get ny\u00fajt a szociogr\u00e1f kirajzol\u00e1s\u00e1ra, valamint a csoportkoh\u00e9zi\u00f3s, csoportl\u00e9gk\u00f6r, illetve centr\u00e1lis-margin\u00e1lis mutat\u00f3k meghat\u00e1roz\u00e1s\u00e1ra, valamint a k\u00f6lcs\u00f6n\u00f6ss\u00e9gi \u00e9s gyakoris\u00e1gi t\u00e1bl\u00e1zat megjelen\u00edt\u00e9s\u00e9re.\n\n\nA kinyert adatokb\u00f3l PDF form\u00e1tum\u00fa riport k\u00e9sz\u00edthet\u0151.\n\n\n\n\nLet\u00f6lt\u00e9s\n\n\nA szoftver let\u00f6lt\u00e9se\n\n\n\n\nTelep\u00edt\u00e9s nem sz\u00fcks\u00e9ges, a let\u00f6lt\u00f6tt \nzip\n f\u00e1jl kicsomagol\u00e1sa ut\u00e1n a szoftver a \"szociometria.jar\" f\u00e1jlra val\u00f3 kattint\u00e1ssal futtathat\u00f3.  \n\n\nA let\u00f6lt\u00f6tt f\u00e1jl tartalmaz egy minta k\u00e9rd\u00e9ssort \n(M\u00e9rei, 2004)\n, illetve egy minta adatokkal felt\u00f6lt\u00f6tt f\u00e1jlt.\n\n\n\n\nMegjegyz\u00e9s\n\n\n\n\n\n\nA szoftver ingyenes mivolt\u00e1b\u00f3l kifoly\u00f3lag helyes m\u0171k\u00f6d\u00e9s\u00e9\u00e9rt felel\u0151ss\u00e9get nem v\u00e1llalok.\n\n\n\n\nRendszerk\u00f6vetelm\u00e9nyek\n\n\nA szoftver futtat\u00e1s\u00e1hoz a Java futtat\u00e1si k\u00f6rnyezet (JRE) leagl\u00e1bb 8-as verzi\u00f3ja sz\u00fcks\u00e9ges. Let\u00f6lt\u00e9s: \nhttps://java.com/en/download/",
             "title": "Let\u00f6lt\u00e9s"
         },
         {
+            "location": "/#ingyenes-szociometriai-szoftver",
+            "text": "A szoftver seg\u00edts\u00e9get ny\u00fajt a M\u00e9rei-f\u00e9le t\u00f6bbszempont\u00fa szociometriai felm\u00e9r\u00e9s elv\u00e9gz\u00e9s\u00e9hez.    Lehet\u0151s\u00e9get ny\u00fajt a szociogr\u00e1f kirajzol\u00e1s\u00e1ra, valamint a csoportkoh\u00e9zi\u00f3s, csoportl\u00e9gk\u00f6r, illetve centr\u00e1lis-margin\u00e1lis mutat\u00f3k meghat\u00e1roz\u00e1s\u00e1ra, valamint a k\u00f6lcs\u00f6n\u00f6ss\u00e9gi \u00e9s gyakoris\u00e1gi t\u00e1bl\u00e1zat megjelen\u00edt\u00e9s\u00e9re.  A kinyert adatokb\u00f3l PDF form\u00e1tum\u00fa riport k\u00e9sz\u00edthet\u0151.",
+            "title": "Ingyenes szociometriai szoftver"
+        },
+        {
             "location": "/#letoltes",
-            "text": "Let\u00f6lt\u00e9s",
+            "text": "A szoftver let\u00f6lt\u00e9se   Telep\u00edt\u00e9s nem sz\u00fcks\u00e9ges, a let\u00f6lt\u00f6tt  zip  f\u00e1jl kicsomagol\u00e1sa ut\u00e1n a szoftver a \"szociometria.jar\" f\u00e1jlra val\u00f3 kattint\u00e1ssal futtathat\u00f3.    A let\u00f6lt\u00f6tt f\u00e1jl tartalmaz egy minta k\u00e9rd\u00e9ssort  (M\u00e9rei, 2004) , illetve egy minta adatokkal felt\u00f6lt\u00f6tt f\u00e1jlt.",
             "title": "Let\u00f6lt\u00e9s"
         },
         {
@@ -16,9 +21,9 @@
             "title": "Megjegyz\u00e9s"
         },
         {
-            "location": "/#kovetelmenyek",
+            "location": "/#rendszerkovetelmenyek",
             "text": "A szoftver futtat\u00e1s\u00e1hoz a Java futtat\u00e1si k\u00f6rnyezet (JRE) leagl\u00e1bb 8-as verzi\u00f3ja sz\u00fcks\u00e9ges. Let\u00f6lt\u00e9s:  https://java.com/en/download/",
-            "title": "K\u00f6vetelm\u00e9nyek"
+            "title": "Rendszerk\u00f6vetelm\u00e9nyek"
         },
         {
             "location": "/doc/",
